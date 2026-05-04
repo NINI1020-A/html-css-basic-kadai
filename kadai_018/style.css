@@ -4,17 +4,15 @@
     background-color: #dcc9f4;
     padding-top: 20px;
     padding-bottom: 20px;
-    margin: 0 auto;
+    margin: 20px auto;
     justify-content: center;
-
+    text-align: center;
 }
 
 .top-child{
-    display: flex;
-    width:20%;
-    background-color: #ffd9df;
-    justify-content: center; 
-    align-items: center;     
+  display: inline-block;
+  width: 20%;
+  background-color: #ffd9df;  
 }
 
 #middle{
